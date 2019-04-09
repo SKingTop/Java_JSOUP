@@ -1,4 +1,4 @@
-package karae_jsoup;
+package karaev_jsoup;
 
 /**
  *
@@ -47,7 +47,6 @@ public class MainFrame extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Стоимость криптовалют");
         setIconImage(java.awt.Toolkit.getDefaultToolkit().createImage(getClass().getResource("icon.png")));
-        setMaximumSize(new java.awt.Dimension(590, 432));
         setMinimumSize(new java.awt.Dimension(590, 432));
         getContentPane().setLayout(null);
 
@@ -111,23 +110,23 @@ public class MainFrame extends javax.swing.JFrame {
         getContentPane().add(jLabel11);
         jLabel11.setBounds(380, 350, 140, 40);
 
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karae_jsoup/bitcoin.png"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karaev_jsoup/bitcoin.png"))); // NOI18N
         getContentPane().add(jLabel12);
         jLabel12.setBounds(40, 70, 60, 60);
 
-        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karae_jsoup/ethereum.png"))); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karaev_jsoup/ethereum.png"))); // NOI18N
         getContentPane().add(jLabel13);
         jLabel13.setBounds(40, 140, 44, 50);
 
-        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karae_jsoup/ripple.png"))); // NOI18N
+        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karaev_jsoup/ripple.png"))); // NOI18N
         getContentPane().add(jLabel14);
         jLabel14.setBounds(40, 210, 50, 60);
 
-        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karae_jsoup/eos.png"))); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karaev_jsoup/eos.png"))); // NOI18N
         getContentPane().add(jLabel15);
         jLabel15.setBounds(40, 280, 50, 50);
 
-        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karae_jsoup/litecoin.png"))); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/karaev_jsoup/litecoin.png"))); // NOI18N
         getContentPane().add(jLabel16);
         jLabel16.setBounds(40, 340, 60, 50);
 
